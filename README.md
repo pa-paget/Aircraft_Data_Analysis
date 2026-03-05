@@ -1,5 +1,10 @@
 # ✈️ Aircraft Data Analytics: From Cloud Warehouse to Business Insights
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Role](https://img.shields.io/badge/Role-Data%20Engineer%20%2F%20Analyst-blue)
+![Stack](https://img.shields.io/badge/Stack-Snowflake%20%7C%20DBT%20%7C%20Deepnote-lightgrey)
+![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Pandas-yellow)
+
 ## 📌 Présentation du Projet
 Ce projet est une analyse exploratoire (EDA) complète du secteur aéronautique. L'objectif est de transformer des données brutes de vols et de métriques de compagnies aériennes en insights stratégiques en utilisant la puissance de la **Modern Data Stack**.
 
